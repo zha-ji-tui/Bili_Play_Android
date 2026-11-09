@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bili Play</string>
+    <string name="app_tagline">把喜欢的视频，变成你的歌单</string>
+
+    <string name="tab_home">首页</string>
+    <string name="tab_search">搜索</string>
+    <string name="tab_downloads">下载</string>
+    <string name="tab_profile">我的</string>
+
+    <string name="home_feed_title">音乐推荐</string>
+    <string name="home_feed_empty">暂时没有推荐内容，稍后再来看看</string>
+
+    <string name="search_title">搜索</string>
+    <string name="search_action">搜索</string>
+    <string name="search_placeholder">搜索视频、UP 主</string>
+    <string name="search_empty_hint">输入关键词，搜索视频与 UP 主</string>
+    <string name="search_no_results">没有找到相关内容</string>
+    <string name="search_category_videos">视频</string>
+    <string name="search_category_uploaders">UP 主</string>
+    <string name="search_history_title">搜索历史</string>
+    <string name="search_history_clear">清空</string>
+    <string name="search_history_delete">删除</string>
+
+    <string name="downloads_title">已下载</string>
+    <string name="downloads_summary">共 %1$d 首 · 文件保存在 音乐/BiliPlay，点击即可离线播放</string>
+    <string name="downloads_hint_short">保存在 音乐/BiliPlay</string>
+    <string name="downloads_empty">还没有下载的歌曲\n去搜索页点歌曲右侧的下载按钮</string>
+    <string name="downloads_delete">删除</string>
+    <string name="downloads_delete_title">删除下载</string>
+    <string name="downloads_delete_message">确定删除这首歌吗？本地文件也会被移除。</string>
+    <string name="downloads_play_all">播放全部</string>
+    <string name="downloads_sort_recent">最近下载</string>
+    <string name="downloads_sort_oldest">最早下载</string>
+    <string name="downloads_sort_title">按标题</string>
+    <string name="downloads_sort_uploader">按 UP 主</string>
+
+    <string name="profile_title">我的</string>
+    <string name="profile_about">关于与鸣谢</string>
+    <string name="profile_meta">UID %1$d · Lv.%2$d</string>
+    <string name="profile_vip">大会员</string>
+    <string name="profile_logout">退出登录</string>
+    <string name="profile_logout_title">退出登录</string>
+    <string name="profile_logout_message">退出后需要重新扫码登录，确定退出吗？</string>
+
+    <string name="login_subtitle">登录你的哔哩哔哩账号，同步收藏与历史</string>
+    <string name="login_qr_desc">登录二维码</string>
+    <string name="login_refresh">刷新二维码</string>
+    <string name="login_save">保存二维码到相册</string>
+    <string name="login_save_hint">手机端操作：哔哩哔哩 App → 扫一扫 → 相册，选择刚保存的二维码。</string>
+    <string name="login_saved">二维码已保存到相册</string>
+    <string name="login_save_failed">保存失败，请重试</string>
+    <string name="login_unofficial">Bili Play 是个人开发的非官方第三方客户端</string>
+
+    <string name="about_title">关于 Bili Play</string>
+    <string name="about_version">版本 %1$s</string>
+    <string name="about_intro">Bili Play 是一款第三方哔哩哔哩音乐客户端，将视频中的音频整理成可欣赏的歌曲。</string>
+    <string name="about_credits_title">鸣谢</string>
+    <string name="about_credits_body">本项目的产品设计、功能定义与实现思路来自 soda-rx 开发的 Windows 应用 Bili Play。感谢原作者的开源与创作。</string>
+    <string name="about_original_project">原项目：soda-rx/Bili_Play</string>
+    <string name="about_original_project_sub">github.com/soda-rx/Bili_Play</string>
+    <string name="about_license_title">开源许可</string>
+    <string name="about_license_body">Bili Play 原项目以 MIT 许可证开源，Copyright (c) 2026 soda-rx。本项目同样采用 MIT 许可证，完整版权声明见仓库中的 LICENSE 与 NOTICE 文件。</string>
+    <string name="about_disclaimer_title">免责声明</string>
+    <string name="about_disclaimer_body">本项目为个人开发的非官方项目，与哔哩哔哩不存在隶属关系。视频、音频、字幕、封面与评论的权利归各自权利人所有，请在获得授权并符合平台规则的前提下使用。</string>
+
+    <string name="action_back">返回</string>
+    <string name="action_logout">退出</string>
+    <string name="action_cancel">取消</string>
+    <string name="action_retry">重试</string>
+    <string name="action_refresh">刷新</string>
+    <string name="action_delete">删除</string>
+    <string name="action_play">播放</string>
+    <string name="action_pause">暂停</string>
+    <string name="action_stop">停止</string>
+    <string name="action_close">关闭</string>
+    <string name="action_next">下一首</string>
+    <string name="action_previous">上一首</string>
+    <string name="action_download">下载</string>
+    <string name="download_done">已下载</string>
+
+    <string name="player_title">正在播放</string>
+    <string name="player_empty">还没有正在播放的歌曲</string>
+    <string name="player_unknown">未知曲目</string>
+    <string name="player_mode">播放模式：%1$s</string>
+    <string name="player_preparing">正在准备播放…</string>
+
+    <string name="mode_list_loop">列表循环</string>
+    <string name="mode_single_loop">单曲循环</string>
+    <string name="mode_sequential">顺序播放</string>
+    <string name="mode_shuffle">随机播放</string>
+</resources>

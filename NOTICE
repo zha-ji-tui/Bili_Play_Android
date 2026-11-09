@@ -1,0 +1,21 @@
+Bili Play Android
+=================
+
+Bili Play Android is a Kotlin/Android port of "Bili Play"
+(https://github.com/soda-rx/Bili_Play).
+
+Original project:
+  Bili Play
+  Copyright (c) 2026 soda-rx
+  Licensed under the MIT License.
+  https://github.com/soda-rx/Bili_Play
+
+The original project's MIT license text is reproduced in LICENSE.
+
+This port:
+  Copyright (c) 2026 zha-ji-tui
+  Licensed under the MIT License.
+
+Third-party notices:
+  This project links against AndroidX, Kotlin, Media3 and other libraries
+  distributed under the Apache License 2.0 or their respective licenses.
